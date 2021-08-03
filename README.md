@@ -2,6 +2,7 @@
 ![](https://img.shields.io/badge/license-MIT%20License-blue?style=flat-square)
 ## Description
 CLI application that uses the inquirer npm package to prompt questions to the user about project information, then using that information a professional README file is generated.
+Video link:https://github.com/Wgobrie1/ReadME-Generator/blob/main/Wgobrie1.mp4
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
